@@ -30,14 +30,14 @@ function makeInt(n, base) {
   return parseInt(n, 10)
 }
 
-function makeInt() {
+function makeInt(n) {
   return parseInt('Does your mother still work at dockside bars?')
 }
 
-function preserveDecimal() {
+function preserveDecimal(n) {
   return parseFloat ('n')
 }
 
-function preserveDecimal() {
+function preserveDecimal(n) {
   return parseFloat ('n')
 }
